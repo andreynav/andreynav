@@ -6,14 +6,14 @@
 - 🐞 I like to test software
 - 💪 I like to write code
 - ⭐	I respect common sense
-
+<!--
 ### How to reach me:
 
 [<img align="left" alt="Andrei Nalivaiko | Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][gmail]
 [<img align="left" alt="Andrei Nalivaiko | LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Andrei Nalivaiko | Gmail" width="22px" src="https://img.icons8.com/color/48/000000/skype--v1.png" />][skype]
 </br>
-
+-->
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
