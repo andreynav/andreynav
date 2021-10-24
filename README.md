@@ -39,7 +39,7 @@
 </br>
 <a href="https://github.com/anuraghazra/github-readme-stats">  
     <img align="left" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andrei1982&show_icons=true&hide=stars&theme=dark&include_all_commits&count_private=true" />
-  
+</a>  
 
 [linkedin]: https://www.linkedin.com/in/andrei-nalivaika/
 [gmail]: mailto:nav.testsw@gmail.com
