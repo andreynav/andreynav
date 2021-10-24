@@ -33,20 +33,18 @@
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Andrei1982/badges/small)
 
 ### Statistics:
-
-<img align="left" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei1982&langs_count=8&layout=compact&theme=dark" />
-
-<img align="left" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andrei1982&show_icons=true&hide=stars&theme=dark&include_all_commits&count_private=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei1982&langs_count=8&layout=compact&theme=dark" />
+</a>  
+<a href="https://github.com/anuraghazra/github-readme-stats">  
+    <img align="left" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andrei1982&show_icons=true&hide=stars&theme=dark&include_all_commits&count_private=true" />
+  
 
 [linkedin]: https://www.linkedin.com/in/andrei-nalivaika/
 [gmail]: mailto:nav.testsw@gmail.com
 [skype]: skype:banderas-x?userinfo
 
 <!--
-**Andrei1982/Andrei1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -55,5 +53,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 -->
