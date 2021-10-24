@@ -1,7 +1,5 @@
 ## Hey there, I'm Andrey 👋
 
-![](https://komarev.com/ghpvc/?username=Andrei1982)
-
 ### I'm a Quality Assurance Engineer
 - 🐞 I like to test software
 - 💪 I like to write code
@@ -41,6 +39,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">  
     <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andrei1982&layout=compact&show_icons=true&hide=stars&theme=dark&count_private=true&bg_color=0d1117" />
 </a>  
+
+### Visits
+![](https://komarev.com/ghpvc/?username=Andrei1982)
 
 [linkedin]: https://www.linkedin.com/in/andrei-nalivaika/
 [gmail]: mailto:nav.testsw@gmail.com
