@@ -30,6 +30,8 @@
 <br />
 
 ### My achievements
+[Codewars](https://www.codewars.com/users/Andrei1982)
+
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Andrei1982/badges/small)
 
 ### Statistics:
