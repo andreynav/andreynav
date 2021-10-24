@@ -1,4 +1,4 @@
-## Hello to everyone who sees this now, I'm Andrey 👋
+## Hey there, I'm Andrey 👋
 
 ![](https://komarev.com/ghpvc/?username=Andrei1982)
 
