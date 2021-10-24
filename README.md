@@ -36,7 +36,7 @@
 
 ### Statistics:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei1982&layout=compact&langs_count=8&theme=dark" />
+    <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei1982&layout=compact&langs_count=8&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">  
     <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andrei1982&layout=compact&show_icons=true&hide=stars&theme=dark&count_private=true" />
