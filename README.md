@@ -1,10 +1,10 @@
 ## Hey there, I'm Andrey 👋
-
+<!--
 ### I'm a Quality Assurance Engineer
 - 🐞 I like to test software
 - 💪 I like to write code
 - ⭐	I respect common sense
-<!--
+
 ### How to reach me:
 
 [<img align="left" alt="Andrei Nalivaiko | Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][gmail]
@@ -12,7 +12,7 @@
 [<img align="left" alt="Andrei Nalivaiko | Gmail" width="22px" src="https://img.icons8.com/color/48/000000/skype--v1.png" />][skype]
 </br>
 -->
-### Languages and Tools
+### My Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -27,12 +27,12 @@
 <img align="left" alt="Chrome DevTools" width="26px" src="https://img.icons8.com/color/48/000000/chrome--v1.png"/>
 <br />
 
-### My achievements
+### My Achievements
 [Codewars](https://www.codewars.com/users/Andrei1982)
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Andrei1982/badges/small)
 
-### Statistics:
+### My Statistics:
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei1982&layout=compact&langs_count=8&layout=compact&theme=dark&bg_color=0d1117" />
 </a>
@@ -40,7 +40,7 @@
     <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andrei1982&layout=compact&show_icons=true&hide=stars&theme=dark&count_private=true&bg_color=0d1117" />
 </a>  
 
-### Visits
+### My Visits
 ![](https://komarev.com/ghpvc/?username=Andrei1982)
 
 [linkedin]: https://www.linkedin.com/in/andrei-nalivaika/
