@@ -28,9 +28,9 @@
 <br />
 
 ### My Achievements
-[Codewars](https://www.codewars.com/users/andreynav)
+[Codewars](https://www.codewars.com/users/Andrei1982/badges/small)
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/andreynav/badges/small)
+![My Codewarrior Profile Badge](https://www.codewars.com/users/Andrei1982/badges/small)
 
 ### My Statistics:
 <a href="https://github.com/anuraghazra/github-readme-stats">
