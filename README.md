@@ -28,20 +28,20 @@
 <br />
 
 ### My Achievements
-[Codewars](https://www.codewars.com/users/Andrei1982)
+[Codewars](https://www.codewars.com/users/andreynav)
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/Andrei1982/badges/small)
+![My Codewarrior Profile Badge](https://www.codewars.com/users/andreynav/badges/small)
 
 ### My Statistics:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei1982&layout=compact&langs_count=8&layout=compact&theme=dark&bg_color=0d1117" />
+    <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreynav&layout=compact&langs_count=8&layout=compact&theme=dark&bg_color=0d1117" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">  
-    <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andrei1982&layout=compact&show_icons=true&hide=stars&theme=dark&count_private=true&bg_color=0d1117" />
+    <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andreynav&layout=compact&show_icons=true&hide=stars&theme=dark&count_private=true&bg_color=0d1117" />
 </a>  
 
 ### My Visits
-![](https://komarev.com/ghpvc/?username=Andrei1982)
+![](https://komarev.com/ghpvc/?username=andreynav)
 
 [linkedin]: https://www.linkedin.com/in/andrei-nalivaika/
 [gmail]: mailto:nav.testsw@gmail.com
