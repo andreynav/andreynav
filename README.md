@@ -23,7 +23,6 @@
   </a>
 </div>
 <br />
-<br />
 <hr>
 
 ### My Languages and Tools
