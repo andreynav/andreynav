@@ -55,6 +55,9 @@
 
 ### My Visits
 ![](https://komarev.com/ghpvc/?username=andreynav)
+<br />
+<br />
+<br />
 <hr>
 
 ### How to reach me:
@@ -64,15 +67,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:nav.testsw@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=red&?ogoWidth=40" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/-gmail-gray?style=for-the-badge&logo=gmail&?ogoWidth=40" alt="Gmail Badge"/>
   </a>
 </div>
 
-<hr>
-
-[linkedin]: https://www.linkedin.com/in/andrei-nalivaika/
-[gmail]: mailto:nav.testsw@gmail.com
-[<img align="left" alt="Andrei Nalivaiko | LinkedIn" width="28px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][https://www.linkedin.com/in/andrei-nalivaika/]
+<!--
 [<img align="left" alt="Andrei Nalivaiko | Gmail" width="28px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][mailto:nav.testsw@gmail.com]
 [skype]: skype:banderas-x?userinfo
+-->
 
