@@ -31,13 +31,14 @@
 <img align="left" alt="React" width="32px" src="https://img.icons8.com/office/344/react.png" />
 <img align="left" alt="Redux" width="32px" src="https://img.icons8.com/color/344/redux.png" />
 <br />
-<hr>
+<br />
 
 ### My Achievements
 [Codewars](https://www.codewars.com/users/andreynav/badges/small)
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/andreynav/badges/small)
-<hr>
+<br />
+<br />
 
 ### My Statistics:
 <a href="https://github.com/anuraghazra/github-readme-stats">
