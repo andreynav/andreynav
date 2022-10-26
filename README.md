@@ -12,18 +12,6 @@
 [<img align="left" alt="Andrei Nalivaiko | Gmail" width="28px" src="https://img.icons8.com/color/48/000000/skype--v1.png" />][skype]
 </br>
 -->
-### You can reach me
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/andrei-nalivaika/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:nav.testsw@gmail.com">
-    <img src="https://img.shields.io/badge/-gmail-gray?style=for-the-badge&logo=gmail&?ogoWidth=40" alt="Gmail Badge"/>
-  </a>
-</div>
-<br />
-<hr>
 
 ### My Languages and Tools
 
@@ -68,6 +56,19 @@
 ### My Visits
 ![](https://komarev.com/ghpvc/?username=andreynav)
 <br />
+<br />
+<hr>
+
+### You can reach me
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/andrei-nalivaika/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:nav.testsw@gmail.com">
+    <img src="https://img.shields.io/badge/-gmail-gray?style=for-the-badge&logo=gmail&?ogoWidth=40" alt="Gmail Badge"/>
+  </a>
+</div>
 <br />
 <hr>
 
