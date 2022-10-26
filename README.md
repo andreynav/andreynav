@@ -14,7 +14,6 @@
 -->
 ### My Languages and Tools
 
-
 <img align="left" alt="Postman" width="32px" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />
 <img align="left" alt="Chrome DevTools" width="32px" src="https://img.icons8.com/color/48/000000/chrome--v1.png" />
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
@@ -32,7 +31,7 @@
 <img align="left" alt="Redux" width="32px" src="https://img.icons8.com/color/344/redux.png" />
 <br />
 <br />
-<br />
+<hr>
 
 ### My Achievements
 [Codewars](https://www.codewars.com/users/andreynav/badges/small)
@@ -40,9 +39,9 @@
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/andreynav/badges/small)
 <br />
 <br />
-<br />
+<hr>
 
-### My Statistics:
+### My Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreynav&layout=compact&langs_count=8&layout=compact&theme=dark&bg_color=0d1117" />
 </a>
@@ -51,11 +50,10 @@
 </a>  
 <br />
 <br />
-<br />
+<hr>
 
 ### My Visits
 ![](https://komarev.com/ghpvc/?username=andreynav)
-<br />
 <br />
 <br />
 <hr>
