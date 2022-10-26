@@ -46,7 +46,11 @@
 
 ### My Visits
 ![](https://komarev.com/ghpvc/?username=andreynav)
+<hr>
 
-![linkedin]: https://www.linkedin.com/in/andrei-nalivaika/
-![gmail]: mailto:nav.testsw@gmail.com
-![skype]: skype:banderas-x?userinfo
+### How to reach me:
+
+[linkedin]: https://www.linkedin.com/in/andrei-nalivaika/
+[gmail]: mailto:nav.testsw@gmail.com
+[skype]: skype:banderas-x?userinfo
+<hr>
