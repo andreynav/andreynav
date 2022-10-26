@@ -33,6 +33,7 @@
 [Codewars](https://www.codewars.com/users/andreynav/badges/small)
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/andreynav/badges/small)
+<hr>
 
 ### My Statistics:
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -41,10 +42,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">  
     <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andreynav&layout=compact&show_icons=true&hide=stars&theme=dark&count_private=true&include_all_commits=true&bg_color=0d1117" />
 </a>  
+<hr>
 
 ### My Visits
 ![](https://komarev.com/ghpvc/?username=andreynav)
 
-[linkedin]: https://www.linkedin.com/in/andrei-nalivaika/
-[gmail]: mailto:nav.testsw@gmail.com
-[skype]: skype:banderas-x?userinfo
+![linkedin]: https://www.linkedin.com/in/andrei-nalivaika/
+![gmail]: mailto:nav.testsw@gmail.com
+![skype]: skype:banderas-x?userinfo
