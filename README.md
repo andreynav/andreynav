@@ -31,14 +31,12 @@
 <img align="left" alt="React" width="32px" src="https://img.icons8.com/office/344/react.png" />
 <img align="left" alt="Redux" width="32px" src="https://img.icons8.com/color/344/redux.png" />
 <br />
-<br />
 <hr>
 
 ### My Achievements
 [Codewars](https://www.codewars.com/users/andreynav)
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/andreynav/badges/small)
-<br />
 <br />
 <hr>
 
@@ -50,12 +48,10 @@
     <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andreynav&layout=compact&show_icons=true&hide=stars&theme=dark&count_private=true&include_all_commits=true&bg_color=0d1117" />
 </a>  
 <br />
-<br />
 <hr>
 
 ### My Visits
 ![](https://komarev.com/ghpvc/?username=andreynav)
-<br />
 <br />
 <hr>
 
@@ -70,7 +66,6 @@
   </a>
 </div>
 <br />
-<hr>
 
 <!--
 [<img align="left" alt="Andrei Nalivaiko | Gmail" width="28px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][mailto:nav.testsw@gmail.com]
