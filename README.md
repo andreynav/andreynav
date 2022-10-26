@@ -32,11 +32,13 @@
 <img align="left" alt="Redux" width="32px" src="https://img.icons8.com/color/344/redux.png" />
 <br />
 <br />
+<br />
 
 ### My Achievements
 [Codewars](https://www.codewars.com/users/andreynav/badges/small)
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/andreynav/badges/small)
+<br />
 <br />
 <br />
 
@@ -47,7 +49,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">  
     <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andreynav&layout=compact&show_icons=true&hide=stars&theme=dark&count_private=true&include_all_commits=true&bg_color=0d1117" />
 </a>  
-<hr>
+<br />
+<br />
+<br />
 
 ### My Visits
 ![](https://komarev.com/ghpvc/?username=andreynav)
@@ -60,7 +64,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:nav.testsw@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=red&?ogoWidth=40" alt="Gmail Badge"/>
   </a>
 </div>
 
