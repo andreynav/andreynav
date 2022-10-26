@@ -50,6 +50,15 @@
 
 ### How to reach me:
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/andrei-nalivaika/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:nav.testsw@gmail.com">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
 [linkedin]: https://www.linkedin.com/in/andrei-nalivaika/
 [gmail]: mailto:nav.testsw@gmail.com
 [<img align="left" alt="Andrei Nalivaiko | LinkedIn" width="28px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][https://www.linkedin.com/in/andrei-nalivaika/]
