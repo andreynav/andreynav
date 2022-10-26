@@ -14,7 +14,7 @@
 -->
 ### My Languages and Tools
 
-<img align="left" alt="Postman" width="32px" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/>
+<img align="left" alt="Postman" width="32px" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/> [Postman]
 <img align="left" alt="Chrome DevTools" width="32px" src="https://img.icons8.com/color/48/000000/chrome--v1.png"/>
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="PyCharm" width="32px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
@@ -27,6 +27,7 @@
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
 <br />
+<hr>
 
 ### My Achievements
 [Codewars](https://www.codewars.com/users/andreynav/badges/small)
