@@ -52,5 +52,7 @@
 
 [linkedin]: https://www.linkedin.com/in/andrei-nalivaika/
 [gmail]: mailto:nav.testsw@gmail.com
+[<img align="left" alt="Andrei Nalivaiko | LinkedIn" width="28px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][https://www.linkedin.com/in/andrei-nalivaika/]
+[<img align="left" alt="Andrei Nalivaiko | Gmail" width="28px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][mailto:nav.testsw@gmail.com]
 [skype]: skype:banderas-x?userinfo
 <hr>
