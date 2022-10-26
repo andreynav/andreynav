@@ -34,7 +34,7 @@
 <hr>
 
 ### My Achievements
-[Codewars](https://www.codewars.com/users/andreynav/badges/small)
+[Codewars](https://www.codewars.com/users/andreynav)
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/andreynav/badges/small)
 <br />
