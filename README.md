@@ -13,7 +13,7 @@
 </br>
 -->
 
-### My Languages and Tools
+### My Languages, Technologies and Tools
 
 <img align="left" alt="Postman" width="32px" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />
 <img align="left" alt="Chrome DevTools" width="32px" src="https://img.icons8.com/color/48/000000/chrome--v1.png" />
