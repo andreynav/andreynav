@@ -55,7 +55,7 @@
 <br />
 <hr>
 
-### You can reach me
+### You can reach out to me
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/andrei-nalivaika/">
