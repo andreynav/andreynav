@@ -1,5 +1,5 @@
 
-![Header](./github-header-image1.png)
+![Header](./github-header-image.png)
 <br />
 <br />
 
