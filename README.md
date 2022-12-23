@@ -54,7 +54,7 @@
 ### My Visits
 
 ![](https://komarev.com/ghpvc/?username=andreynav&style=for-the-badge&color=51a566)
-<hr>
+
 
 ### You can reach out to me
 
