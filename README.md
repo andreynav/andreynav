@@ -1,17 +1,6 @@
+
+![Header](./github-header-image.png)
 ## Hey there, I'm Andrey 👋
-<!--
-### I'm a Quality Assurance Engineer
-- 🐞 I like to test software
-- 💪 I like to write code
-- ⭐	I respect common sense
-
-### How to reach me:
-
-[<img align="left" alt="Andrei Nalivaiko | Gmail" width="28px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][gmail]
-[<img align="left" alt="Andrei Nalivaiko | LinkedIn" width="28px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Andrei Nalivaiko | Gmail" width="28px" src="https://img.icons8.com/color/48/000000/skype--v1.png" />][skype]
-</br>
--->
 
 ### My Languages, Technologies and Tools
 
