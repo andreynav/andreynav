@@ -52,7 +52,8 @@
 <hr>
 
 ### My Visits
-![](https://komarev.com/ghpvc/?username=andreynav)
+![](https://komarev.com/ghpvc/?username=andreynav&style=for-the-badge)
+
 <br />
 <hr>
 
@@ -67,9 +68,4 @@
   </a>
 </div>
 <br />
-
-<!--
-[<img align="left" alt="Andrei Nalivaiko | Gmail" width="28px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][mailto:nav.testsw@gmail.com]
-[skype]: skype:banderas-x?userinfo
--->
 
