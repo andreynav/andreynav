@@ -28,14 +28,8 @@
 
 ## Achievements
 <br />
-<div>
-<div>
 [Codewars](https://www.codewars.com/users/andreynav)
-</div>
-<div>
-![My Codewarrior Profile Badge](https://www.codewars.com/users/andreynav/badges/large)
-</div>
-</div>
+![My Codewarrior Profile Badge]([https://www.codewars.com/users/andreynav/badges/large](https://www.codewars.com/users/andreynav))
 <br />
 
 ### My Statistics
