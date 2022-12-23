@@ -1,7 +1,7 @@
 
 ![Header](./github-header-image.png)
 <br />
-
+<br />
 
 ## Languages, Technologies and Tools
 <div align="center">
@@ -22,14 +22,16 @@
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest" /></code>
-</div>	
+</div>
+<br />
 
-### My Achievements
+## Achievements
+<div align="center">
 [Codewars](https://www.codewars.com/users/andreynav)
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/andreynav/badges/large)
+</div>
 <br />
-<hr>
 
 ### My Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
