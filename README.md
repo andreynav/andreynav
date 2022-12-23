@@ -52,7 +52,7 @@
 <hr>
 
 ### My Visits
-![](https://komarev.com/ghpvc/?username=andreynav&style=for-the-badge&color=green)
+![](https://komarev.com/ghpvc/?username=andreynav&style=for-the-badge&color=ecb613)
 
 <br />
 <hr>
