@@ -1,5 +1,7 @@
 
 ![Header](./github-header-image.png)
+<br />
+<br />
 
 ### My Languages, Technologies and Tools
 
