@@ -28,7 +28,7 @@
 
 ## Achievements
 <br />
-<div align="center">
+<div>
 <div>
 [Codewars](https://www.codewars.com/users/andreynav)
 </div>
