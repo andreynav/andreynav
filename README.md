@@ -4,6 +4,7 @@
 <br />
 
 ## Languages, Technologies and Tools
+<br />
 <div align="center">
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm" /></code>
@@ -26,9 +27,8 @@
 <br />
 
 ## Achievements
+<br />
 <div align="center">
-[Codewars](https://www.codewars.com/users/andreynav)
-
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/andreynav/badges/large)
 </div>
 <br />
