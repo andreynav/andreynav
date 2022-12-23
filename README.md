@@ -48,16 +48,13 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">  
     <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andreynav&layout=compact&show_icons=true&hide=stars&theme=dark&count_private=true&include_all_commits=true&bg_color=0d1117" />
 </a>  
-<br />
 <hr>
 
 ### My Visits
-
 ![](https://komarev.com/ghpvc/?username=andreynav&style=for-the-badge&color=51a566)
-
+<hr>
 
 ### You can reach out to me
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/andrei-nalivaika/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
