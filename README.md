@@ -1,6 +1,5 @@
 
 ![Header](./github-header-image.png)
-## Hey there, I'm Andrey 👋
 
 ### My Languages, Technologies and Tools
 
