@@ -4,26 +4,6 @@
 <br />
 
 ### My Languages, Technologies and Tools
-<--
-<img align="left" alt="Postman" width="32px" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />
-<img align="left" alt="Chrome DevTools" width="32px" src="https://img.icons8.com/color/48/000000/chrome--v1.png" />
-<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
-<img align="left" alt="PyCharm" width="32px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="WebStorm" width="32px" src="https://img.icons8.com/color/344/webstorm.png" />
-
-<img align="left" alt="Selenium" width="32px" src="https://img.icons8.com/fluency/100/000000/selenium-test-automation.png" />
-<img align="left" alt="Robot Framework" width="32px" src="https://img.icons8.com/emoji/48/000000/robot-emoji.png" />
-<img align="left" alt="Java" width="32px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" alt="TypeScript" width="32px" src="https://img.icons8.com/color/48/null/typescript.png" />
-<img align="left" alt="React" width="32px" src="https://img.icons8.com/office/344/react.png" />
-<img align="left" alt="Redux" width="32px" src="https://img.icons8.com/color/344/redux.png" />
-<br />
-<hr> -->
-
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm" /></code>
