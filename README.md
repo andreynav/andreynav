@@ -1,9 +1,9 @@
-
 ![Header](./github-header-image.png)
 <br />
 <br />
 
 ## Languages, Technologies and Tools
+
 <br />
 <div align="center">
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
@@ -27,6 +27,7 @@
 <br />
 
 ## Achievements
+
 <br />
 <div align="center">
 
@@ -35,21 +36,30 @@
 </div>
 <br />
 
-### My Statistics
+## Statistics
+
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreynav&layout=compact&langs_count=8&layout=compact&theme=dark&bg_color=0d1117" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">  
     <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andreynav&layout=compact&show_icons=true&hide=stars&theme=dark&count_private=true&include_all_commits=true&bg_color=0d1117" />
 </a>  
-<hr>
+</div>
 
-### My Visits
+## Visits
+
+<br />
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=andreynav&style=for-the-badge&color=51a566)
-<hr>
 
-### You can reach out to me
-<div id="badges">
+</div>
+
+## You can reach out to me
+
+<br />
+<div align="center" id="badges">
   <a href="https://www.linkedin.com/in/andrei-nalivaika/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
