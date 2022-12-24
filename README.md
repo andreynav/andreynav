@@ -29,7 +29,9 @@
 ## Achievements
 <br />
 <div align="center">
-<code><img height="40" src="https://www.codewars.com/users/andreynav/badges/large" alt="[Codewars](https://www.codewars.com/users/andreynav)" title="[Codewars](https://www.codewars.com/users/andreynav)"/></code>
+
+[![Codewars](https://www.codewars.com/users/andreynav/badges/large)](https://www.codewars.com/users/andreynav)
+
 </div>
 <br />
 
