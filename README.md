@@ -1,6 +1,5 @@
 ![Header](./github-header-image.png)
 <br />
-
 ## Skills
 <br />
 <div align="center">
@@ -40,7 +39,6 @@
 </div>
 
 ## Achievements
-
 <br />
 <div align="center">
 
@@ -50,7 +48,6 @@
 <br />
 
 ## Statistics
-
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreynav&layout=compact&langs_count=8&layout=compact&theme=dark&bg_color=0d1117" />
@@ -63,7 +60,6 @@
 </div>
 
 ## Visits
-
 <br />
 <div align="center">
 
@@ -71,16 +67,4 @@
 
 </div>
 
-## You can reach out to me
-
-<br />
-<div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/andrei-nalivaika/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:nav.testsw@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
-<br />
 
