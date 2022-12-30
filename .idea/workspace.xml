@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0330272-0eb6-4f96-bd47-c11feaad1073" name="Changes" comment="Removed react out to me section" />
+    <list default="true" id="c0330272-0eb6-4f96-bd47-c11feaad1073" name="Changes" comment="Changed gitignore">
+      <change afterPath="$PROJECT_DIR$/logo/github-header-image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-header-image.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +34,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/logo" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,6 +49,7 @@
       <updated>1671867235393</updated>
       <workItem from="1671867236663" duration="5009000" />
       <workItem from="1672322884963" duration="5223000" />
+      <workItem from="1672328122770" duration="8554000" />
     </task>
     <task id="LOCAL-00001" summary="Add codewars badge">
       <created>1671868679074</created>
@@ -75,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672327128536</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Changed gitignore">
+      <created>1672328186332</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672328186332</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +115,7 @@
     <MESSAGE value="Add new badges" />
     <MESSAGE value="Changed badges" />
     <MESSAGE value="Removed react out to me section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed react out to me section" />
+    <MESSAGE value="Changed gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed gitignore" />
   </component>
 </project>

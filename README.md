@@ -1,14 +1,14 @@
-![Header](./github-header-image.png)
+![Header](logo/github-header-image.png)
 <br />
 
 ## Skills
 <br />
 <div align="center">
-    <img height="48" src="./icons/xmind.png" alt="XMind" title="XMind" />&nbsp;
     <img height="48" src="./icons/testrail.png" alt="Testrail" title="Testrail" />&nbsp;
-    <img height="48" src="./icons/confluence.png" alt="Confluence" title="Confluence" />&nbsp;
-    <img height="48" src="./icons/jira.png" alt="Jira" title="Jira" />&nbsp;
+    <img height="48" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira" />&nbsp;
+    <img height="48" src="./icons/confluence.png" alt="XMind" title="XMind" />&nbsp;
     <img height="48" src="./icons/charles.png" alt="Charles" title="Charles" />&nbsp;
+    <img height="48" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="Bash" title="Bash" />&nbsp;
     <img height="48" src="./icons/chrome_dev.png" alt="Chrome devtools" title="Chrome devtools" />&nbsp;
 </div>
 <br />
@@ -51,12 +51,14 @@
 ## Statistics
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreynav&layout=compact&langs_count=8&layout=compact&theme=dark&bg_color=0d1117" />
+    <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreynav&layout=compact&langs_count=8&layout=compact&theme=dark&bg_color=00000000&border_color=444c56&title_color=adbac7&text_color=768390&card_width=350&" />
 </a>
+
 </div>
+<br />
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">  
-    <img align="center" alt="Andrei Nalivaika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andreynav&layout=compact&show_icons=true&hide=stars&theme=dark&count_private=true&include_all_commits=true&bg_color=0d1117" />
+    <img align="center" alt="Andrei GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andreynav&layout=compact&show_icons=true&hide=stars,contribs&theme=dark&count_private=true&include_all_commits=true&bg_color=00000000&border_color=444c56&title_color=adbac7&text_color=768390&icon_color=39d353&hide_rank=true&card_width=350" />
 </a>  
 </div>
 
@@ -64,7 +66,7 @@
 <br />
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=andreynav&style=for-the-badge&color=51a566)
+![](https://komarev.com/ghpvc/?username=andreynav&style=for-the-badge&label=PROFILE+VISITS&color=39d353)
 
 </div>
 
