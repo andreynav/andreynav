@@ -1,6 +1,5 @@
 ![Header](logo/github-header-image.png)
 <br />
-
 ## Skills
 <br />
 <div align="center">
@@ -44,7 +43,6 @@
 <div align="center">
 
 [![Codewars](https://www.codewars.com/users/andreynav/badges/large)](https://www.codewars.com/users/andreynav)
-
 </div>
 <br />
 
@@ -54,7 +52,6 @@
 <a href="https://github.com/andreynav/github-readme-stats">
     <img align="center" alt="Andrei's Most Used Languages" src="https://github-readme-stats-ubpc-andreynav.vercel.app/api/top-langs/?username=andreynav&exclude_repo=[github-readme-stats,petrob,]&layout=compact&langs_count=12&layout=compact&theme=dark&bg_color=00000000&border_color=444c56&title_color=adbac7&text_color=768390&card_width=400" />
 </a>
-
 </div>
 <br />
 <div align="center">
