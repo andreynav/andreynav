@@ -52,14 +52,14 @@
 <br />
 <div align="center">
 <a href="https://github.com/andreynav/github-readme-stats">
-    <img align="center" alt="Andrei's Most Used Languages" src="https://github-readme-stats-ubpc-andreynav.vercel.app/api/top-langs/?username=andreynav&exclude_repo=[github-readme-stats,petrob,]&layout=compact&langs_count=12&layout=compact&theme=dark&bg_color=00000000&border_color=444c56&title_color=adbac7&text_color=768390&card_width=400" />
+    <img decoding="async" loading="lazy" align="center" alt="Andrei's Most Used Languages" src="https://github-readme-stats-ubpc-andreynav.vercel.app/api/top-langs/?username=andreynav&exclude_repo=[github-readme-stats,petrob,]&layout=compact&langs_count=12&layout=compact&theme=dark&bg_color=00000000&border_color=444c56&title_color=adbac7&text_color=768390&card_width=400" />
 </a>
 
 </div>
 <br />
 <div align="center">
 <a href="https://github.com/andreynav/github-readme-stats">  
-    <img align="center" alt="Andrei's GitHub Stats" src="https://github-readme-stats-andreynav-andreynav.vercel.app/api?username=andreynav&layout=compact&show_icons=true&hide=stars,contribs&theme=dark&count_private=true&include_all_commits=true&bg_color=00000000&border_color=444c56&title_color=adbac7&text_color=768390&icon_color=39d353&hide_rank=true&card_width=400" />
+    <img decoding="async" loading="lazy" align="center" alt="Andrei's GitHub Stats" src="https://github-readme-stats-andreynav-andreynav.vercel.app/api?username=andreynav&layout=compact&show_icons=true&hide=stars,contribs&theme=dark&count_private=true&include_all_commits=true&bg_color=00000000&border_color=444c56&title_color=adbac7&text_color=768390&icon_color=39d353&hide_rank=true&card_width=400" />
 </a>  
 </div>
 
